@@ -21,11 +21,11 @@
 
       Class# Set of animals:
       ====== ===============================================================
-           1 (41) aardvark, antelope, bear, boar, buffalo, calf,
+           1 (40) aardvark, antelope, bear, boar, buffalo, calf,
                   cavy, cheetah, deer, dolphin, elephant,
                   fruitbat, giraffe, girl, goat, gorilla, hamster,
-                  hare, human, leopard, lion, lynx, mink, mole,
-                  mongoose, opossum, oryx, platypus, polecat, pony,
+                  hare, leopard, lion, lynx, mink, mole, mongoose,
+                  opossum, oryx, platypus, polecat, pony,
                   porpoise, puma, pussycat, raccoon, reindeer,
                   seal, sealion, squirrel, vampire, vole, wallaby, wolf
            2 (20) chicken, crow, dove, duck, flamingo, gull, hawk,
@@ -39,7 +39,7 @@
            7 (10) clam, crab, crayfish, lobster, octopus,
                   scorpion, seawasp, slug, starfish, worm
 
-5. Number of Instances: 101
+5. Number of Instances: 100
 
 6. Number of Attributes: 18 (animal name, 15 Boolean attributes, 2 numerics)
 
